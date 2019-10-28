@@ -1,2 +1,1 @@
-# git_test
-Repository to test how to use GIT
+This is Shehroze’s first git project!”
